@@ -1,8 +1,17 @@
-## Hi, my name is Marc Lin 👋
+<h1 align="center">Hello, I'm Paulina 👋</h1>
 
 <div align="center">
   <img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
 </div>
+
+<br>
+
+- 🔭 Currentyly studying machine learning and statistical learning
+- 🔍 Exploring different faces of computer science
+- 📍  French
+
+<br>
+
 <!--
 **mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
