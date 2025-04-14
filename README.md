@@ -13,8 +13,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,R,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,Rstudio,nodejs,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,C" />
 </p>
 
 
