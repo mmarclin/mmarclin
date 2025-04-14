@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center"> 
+  ### Hi, my name is Marc Lin
+</div>
+
 <img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
 
 <!--
