@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Marc 👋</h1>
 
 <div align="center">
-  <img width="10%" src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
+  <img width="40%" src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
 </div>
 
 <br>
