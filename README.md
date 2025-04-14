@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/mmarclin/mmarclin/blob/main/software-developer.png" alt="computer">
+<img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
 
 <!--
 **mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
