@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Paulina 👋</h1>
+<h1 align="center">Hello, I'm Marc 👋</h1>
 
 <div align="center">
   <img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
