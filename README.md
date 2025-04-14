@@ -12,6 +12,13 @@
 
 <br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,R,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+</p>
+
+
+
 <!--
 **mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
