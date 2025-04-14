@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi, my name is Marc Lin 👋
 
-<div align="center"> 
-  ### Hi, my name is Marc Lin
+<div align="center">
+  <img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
 </div>
-
-<img src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
-
 <!--
 **mmarclin/mmarclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
