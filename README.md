@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Marc 👋</h1>
+<h1 align="center">Hi, I'm Marc 👋</h1>
 
 <div align="center">
   <img width="18%" src="https://github.com/mmarclin/mmarclin/blob/main/giphy.gif" alt="computer">
@@ -12,8 +12,6 @@
 
 - 🎓 Final year engineering and management student at [Ecole Centrale de Lille](https://centralelille.fr/), specializing in **Data Science & AI**.
 - 🌍 **Location:**  Paris, Lille - France
-
-<br>
 
 ### 🛠️ Tech Stack
 
