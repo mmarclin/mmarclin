@@ -10,11 +10,12 @@
 
 ### 🎯 About me
 
-- 🔭 Currentyly studying machine learning and statistical learning
-- 🔍 Exploring different faces of computer science
-- 📍  French
+- 🎓 Final year engineering and management student at [Ecole Centrale de Lille](https://centralelille.fr/), specializing in **Data Science & AI**.
+- 🌍 **Location:**  Paris, Lille - France
 
 <br>
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,nodejs,postgres" />
